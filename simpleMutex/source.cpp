@@ -2,7 +2,6 @@
 #include <thread>
 #include <mutex>
 #include <chrono>
-#include <stdlib.h>
 
 #define LL long long
 #define micro_duration std::chrono::duration_cast<std::chrono::seconds>
